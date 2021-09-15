@@ -20,6 +20,15 @@
   
   <details><summary> Create New Features From Existing Features</summary>
   
+  - Binning
+    - Numeric Binning
+    - Categorical Binning
+  
+  - Splitting
+      - Date/Time Decomposition
+      - Compound String Splitting
+  - One-Hot Encoding
+    - sometimes This approach introduces a problem For example if we assign some numeric values to regions like  Aisa as 1 Europe as 2 somehow machine model will understand that  europe is greater than asia This will be a problem
   </details>
 
 
