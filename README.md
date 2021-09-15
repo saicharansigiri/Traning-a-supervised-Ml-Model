@@ -1,7 +1,7 @@
 # Traning-a-supervised-Ml-Model
 
+<details><summary> Clean your data</summary>
 
-## Clean your data
   - Check for any Fromating Errors (ex:- date in one row can be 5/7/2001 and in the next can be 10st may 2010)
   
   ![image](https://user-images.githubusercontent.com/69844239/133402724-f2b10055-cb05-4e3b-8f33-af9095b52216.png)
@@ -33,4 +33,6 @@
 
   
   - Nulls and Nan
+  </details>
+
 
